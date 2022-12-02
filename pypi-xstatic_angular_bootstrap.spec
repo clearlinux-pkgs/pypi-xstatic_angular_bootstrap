@@ -4,7 +4,7 @@
 #
 Name     : pypi-xstatic_angular_bootstrap
 Version  : 2.5.0.0
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/d5/3e/01858ce3e6988ee2d41f72d7413a83d525dd838803f59e8191e243884403/XStatic-Angular-Bootstrap-2.5.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d5/3e/01858ce3e6988ee2d41f72d7413a83d525dd838803f59e8191e243884403/XStatic-Angular-Bootstrap-2.5.0.0.tar.gz
 Summary  : Angular-Bootstrap 2.5.0 (XStatic packaging standard)
@@ -64,7 +64,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1669863399
+export SOURCE_DATE_EPOCH=1669967986
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
